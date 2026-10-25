@@ -3,5 +3,13 @@
   "tenantId": "957a313a-971b-4add-b513-038b581bc3e7",
   "repo": "brycelfischer-sudo/lab",
   "mainRulesetId": 25828876,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://wm-dev-4893.crm.dynamics.com",
+  "devEnvId": "84d8c773-5f6f-e019-8b4a-364a8ceec111",
+  "devOrgId": "3853b67e-98d0-f111-a04e-6045bd003133",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-4893.crm.dynamics.com",
+  "testEnvId": "829f80d4-1987-e384-ad82-2d8683085e08",
+  "testOrgId": "3753b67e-98d0-f111-a04e-6045bd003130",
+  "testProfile": "test"
 }
